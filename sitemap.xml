@@ -649,6 +649,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/inspiration-culinaire/astuces-raclette.html</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/inspiration-culinaire/livraison-petit-dejeuner-bruncher-nantes.html</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4202,6 +4208,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/clasico-argentino.html</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/astuces.html</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,4 +1,7 @@
-User-agent: *
+User-Agent: *
+Disallow: /admin/
+Disallow: /search/
+Disallow: /tags/
 Allow: /
 
 Sitemap: https://foodscene.deliveroo.fr/sitemap.xml

@@ -2011,7 +2011,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/restaurants/.html</loc>
+    <loc>https://foodscene.deliveroo.fr/restaurants/reduction-consommation-de-plastique.html</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2323,31 +2323,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/tag/eco-emballage.html</loc>
-    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.fr/tag/eco-friendly.html</loc>
-    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/environnement.html</loc>
-    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/annonce.html</loc>
-    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/durabilite.html</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5707,7 +5683,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/arame-ly.html</loc>
+    <loc>https://foodscene.deliveroo.fr/deliveroo.html</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5750,12 +5726,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/camille-guillaud.html</loc>
-    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/deliveroo.html</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6415,6 +6385,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/deliveroo/page/2.html</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/julien-durand/page/2.html</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6572,12 +6548,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/carine/page/7.html</loc>
-    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/deliveroo/page/2.html</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

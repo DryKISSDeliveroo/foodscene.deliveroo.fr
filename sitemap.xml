@@ -505,6 +505,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/inspiration-culinaire/boisson-7up-schweppes-saveur-mojito-marseille.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/restaurants/food-gang-tripletta-saison-1-episode-2.html</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -914,6 +920,30 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/contact/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/mojito.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/7up.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/schweppes.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/marseille.html</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

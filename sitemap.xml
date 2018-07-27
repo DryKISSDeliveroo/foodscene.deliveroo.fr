@@ -487,6 +487,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/inspiration-culinaire/tapas-original-lyon-paris-bordeaux-strasbourg.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/inspiration-culinaire/5-plats-voyage-bout-du-monde.html</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -944,6 +950,48 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/marseille.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/tapas.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/espagnol.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/artichaut.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/saumon.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/lyon.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/paris-bordeaux.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/strasbourg.html</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1453,12 +1501,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/tag/tapas.html</loc>
-    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.fr/tag/sushi.html</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1652,12 +1694,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/pique-nique.html</loc>
-    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/lyon.html</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2209,6 +2245,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/delphine-morel.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/camille-guillaud.html</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2252,6 +2294,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/archive/2018/page/2.html</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/archive/2018/page/3.html</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -2197,6 +2197,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/restaurants/food-and-the-gang-homer.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/restaurants/reduction-de-dechets-plastiques.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2527,6 +2533,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/tag/homer.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/food-and-the-gang.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/lobster-roli.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/tag/halloween.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2552,12 +2576,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/barbecue.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/food-and-the-gang.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6061,6 +6079,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/restaurants.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/inspiration-culinaire.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6073,12 +6097,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/restaurants.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.fr/offres.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6086,6 +6104,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/recettes.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/julie-allain.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6152,6 +6176,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/camille.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/food-and-the-gang/page/2.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6571,6 +6601,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/archive/2018/page/18.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/archive/2017/page/2.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6674,6 +6710,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/archive/2016/page/3.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/restaurants/page/2.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/restaurants/page/3.html</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/restaurants/page/4.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6848,24 +6902,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tendances-culinaires/page/2.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/restaurants/page/2.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/restaurants/page/3.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/restaurants/page/4.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

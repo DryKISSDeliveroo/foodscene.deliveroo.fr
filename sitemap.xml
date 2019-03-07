@@ -391,6 +391,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/offres/20-pourcent-offerts-deliveroo-plus-2019.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/offres/4-playlists-pour-chiller-sur-son-canap.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2605,6 +2611,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/tag/offre.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/20.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/menus.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/tag/saint-valentin.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2660,18 +2684,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/dessert.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/offre.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/menus.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6205,6 +6217,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/offres.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/inspiration-culinaire.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6212,12 +6230,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tendances-culinaires.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/offres.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6235,13 +6247,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/arame.html</loc>
+    <loc>https://foodscene.deliveroo.fr/deliveroo.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.fr/arame.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6841,6 +6853,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/offres/page/2.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/inspiration-culinaire/page/2.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7016,12 +7034,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tendances-culinaires/page/3.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/offres/page/2.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

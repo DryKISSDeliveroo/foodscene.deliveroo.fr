@@ -2119,6 +2119,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/offres/danone-my-little-paris-deliveroo-2019.html</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/offres/20-pourcent-offerts-deliveroo-plus-2019.html</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6019,13 +6025,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/terms.html</loc>
+    <loc>https://foodscene.deliveroo.fr/offres.html</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/offres.html</loc>
+    <loc>https://foodscene.deliveroo.fr/terms.html</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6679,6 +6685,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/offres/page/2.html</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/terms/page/2.html</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6686,12 +6698,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/terms/page/3.html</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/offres/page/2.html</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

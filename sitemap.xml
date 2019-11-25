@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/deliveroo-for-business-promotion-traiteur-noel-2019-11-25.html</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/5euros-offerts-mardi-7mai.html</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2467,6 +2473,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/tag/terms.html</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/tag/concours.html</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2474,12 +2486,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/menus.html</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/terms.html</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6752,6 +6758,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/terms/page/3.html</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/terms/page/4.html</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

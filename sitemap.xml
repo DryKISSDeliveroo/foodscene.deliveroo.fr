@@ -2269,6 +2269,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/restaurants/surface-de-preparation-ep-3.html</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/restaurants/food-and-the-gang-yemma.html</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2497,18 +2503,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/tag/offre.html</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/concours.html</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.fr/tag/psg.html</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2522,6 +2516,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/serie.html</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/offre.html</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/concours.html</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6103,6 +6109,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/archive/2020.html</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/archive/2019.html</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6127,13 +6139,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/terms.html</loc>
+    <loc>https://foodscene.deliveroo.fr/restaurants.html</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/restaurants.html</loc>
+    <loc>https://foodscene.deliveroo.fr/terms.html</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6805,24 +6817,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/terms/page/2.html</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/terms/page/3.html</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/terms/page/4.html</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.fr/restaurants/page/2.html</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6836,6 +6830,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/restaurants/page/4.html</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/terms/page/2.html</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/terms/page/3.html</loc>
+    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/terms/page/4.html</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -25,6 +25,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/jeu-concours-ol-turin-2020.html</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/psg-reims-concours-19.html</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2551,6 +2557,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/tag/jeu-concours.html</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/tag/mcdonald-s.html</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2582,12 +2594,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/serie.html</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/jeu-concours.html</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6902,6 +6908,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/terms/page/4.html</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/terms/page/5.html</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

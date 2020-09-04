@@ -217,7 +217,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/termes/relook-ton-resto-credit.html</loc>
+    <loc>https://foodscene.deliveroo.fr/termes/relook-ton-resto-vote.html</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2647,31 +2647,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/tag/relooktonresto.html</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/vote.html</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/credit.html</loc>
+    <loc>https://foodscene.deliveroo.fr/tag/terms.html</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/nux.html</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/terms.html</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

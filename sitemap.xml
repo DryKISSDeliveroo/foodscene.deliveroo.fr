@@ -193,6 +193,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/chipotle-concours-oct-2020.html</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/ben-jerrys-concours-novembre-2019.html</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2659,6 +2665,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/tag/offre.html</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/concours.html</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/tag/services.html</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2672,18 +2690,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/nux.html</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/offre.html</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/concours.html</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7322,6 +7328,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/deliveroo/page/7.html</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/deliveroo/page/8.html</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

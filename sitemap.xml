@@ -283,6 +283,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/bon-cadeau-fnac-oct-2020.html</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/le-food-quiz.html</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6824,6 +6830,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/archive/2020/page/3.html</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/archive/2020/page/4.html</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

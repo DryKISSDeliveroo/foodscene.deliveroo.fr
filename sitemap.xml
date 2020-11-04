@@ -277,6 +277,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/menu-xbox-offre-nov-2020.html</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/concours-juin-18.html</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7184,6 +7190,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/terms/page/7.html</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/terms/page/8.html</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -379,6 +379,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/les-jours-foo-par-deliveroo-dec-2020.html</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/bon-cadeau-fnac-oct-2020.html</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7790,6 +7796,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/termes/page/7/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/termes/page/8/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

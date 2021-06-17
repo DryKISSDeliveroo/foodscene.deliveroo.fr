@@ -205,6 +205,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/contest-natio-cocacola-juin-2021.html</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/psg-reims-concours-19.html</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7550,6 +7556,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/archive/2021/page/7.html</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/archive/2021/page/8.html</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

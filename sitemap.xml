@@ -169,6 +169,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/deliveroo-jeu-concours-plat-du-jour.html</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/ol-jour-de-match-dec-2019.html</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3289,13 +3295,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/tag/services.html</loc>
+    <loc>https://foodscene.deliveroo.fr/tag/concours.html</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/tag/concours.html</loc>
+    <loc>https://foodscene.deliveroo.fr/tag/services.html</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7550,6 +7556,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/archive/2021/page/7.html</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/archive/2021/page/8.html</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -859,6 +859,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/deliveroo-plat-du-jour-cojean.html</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/offre-nouveaux-clients-gaming.html</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>

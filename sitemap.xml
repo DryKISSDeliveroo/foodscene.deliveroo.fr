@@ -133,7 +133,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/termes/jeu-concours-pdj-justine.html</loc>
+    <loc>https://foodscene.deliveroo.fr/termes/jeu-concours-comunione.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -542,6 +542,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/termes/5euros-offerts-mardi-7mai.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/termes/deliveroo-plat-du-jour-come.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7489,6 +7495,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/tag/concours/page/12.html</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/tag/restaurant/page/2.html</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8888,6 +8900,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/termes/page/17/</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/termes/page/18/</loc>
     <lastmod>2021-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

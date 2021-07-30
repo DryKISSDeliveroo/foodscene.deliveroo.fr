@@ -769,6 +769,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/jeu-concours-food-labyrinthe.html</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/recevez-5€-de-reduction-sur-chacune-de-vos-deux-prochaines-commandes-communication-du-13-octobre-2017.html</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8732,6 +8738,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/deliveroo/page/23.html</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/deliveroo/page/24.html</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

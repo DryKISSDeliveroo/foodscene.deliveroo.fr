@@ -631,6 +631,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/jeu-concours-basis.html</loc>
+    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/service-garantie-marseille-grenoble-june-2021.html</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9122,6 +9128,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/termes/page/19/</loc>
+    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/termes/page/20/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

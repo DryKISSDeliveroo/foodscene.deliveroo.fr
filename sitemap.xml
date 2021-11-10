@@ -919,6 +919,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/ben-jerrys-concours-novembre-2019.html</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/reglement-jeu-devenez-critique-gastroonomique.html</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8366,6 +8372,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/concours/page/15.html</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/tag/concours/page/16.html</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

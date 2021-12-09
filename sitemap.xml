@@ -2089,6 +2089,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/deliveroo-decembre-2021-sondage-client.html</loc>
+    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/livraison-offerte-toulouse.html</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4585,6 +4591,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/tag/terms.html</loc>
+    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/tag/concours.html</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4592,12 +4604,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/tag/services.html</loc>
-    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.fr/tag/terms.html</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10094,6 +10100,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/deliveroo/page/39.html</loc>
+    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/deliveroo/page/40.html</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

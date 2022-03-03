@@ -1897,6 +1897,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/deliveroo-competition-mealcard.html</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/jeu-beer-wheel-lsff.html</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4963,13 +4969,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/tag/offer.html</loc>
+    <loc>https://foodscene.deliveroo.fr/tag/offre.html</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/tag/offre.html</loc>
+    <loc>https://foodscene.deliveroo.fr/tag/offer.html</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9007,6 +9013,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/tag/offre/page/40.html</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/tag/concours/page/2.html</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9440,6 +9452,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/archive/2022/page/3.html</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/archive/2022/page/4.html</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

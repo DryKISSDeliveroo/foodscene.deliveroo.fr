@@ -709,6 +709,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/repeat-deliveroo.html</loc>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/le-match-qui-regale.html</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10382,6 +10388,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/terms/page/47.html</loc>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/terms/page/48.html</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

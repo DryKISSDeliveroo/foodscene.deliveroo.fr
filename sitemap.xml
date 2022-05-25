@@ -1159,6 +1159,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/termes/extension-10x12€-code-promo-juin.html</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/termes/burger-king-1000-whopper-offerts-mars-2022.html</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2738,6 +2744,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/termes/promo-metz-orleans-cannes-dijon-nancy-rouen-poitiers-angers-amiens-15€nc-janvier-2022.html</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/termes/livraison-offerte-nouveaux-utilisateurs-juin-2022-14-jours.html</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9049,13 +9061,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.fr/deliveroo-france-sas.html</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/deliveroo-france-sas.html</loc>
+    <loc>https://foodscene.deliveroo.fr/deliveroo.html</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9877,6 +9889,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.fr/archive/2022/page/10.html</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.fr/archive/2021/page/2.html</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10622,6 +10640,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/terms/page/50.html</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/terms/page/51.html</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

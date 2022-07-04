@@ -1711,7 +1711,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.fr/termes/3x7€-offerts-multi-villes.html</loc>
+    <loc>https://foodscene.deliveroo.fr/termes/3x7€-offerts-multi-villes-france.html</loc>
     <lastmod>2022-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2912,6 +2912,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/termes/deliveroo-jeu-concours-plat-victorieux.html</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/termes/livraison-offerte-nouveaux-utilisateurs-juillet-septembre2022-14-jours.html</loc>
     <lastmod>2022-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10022,6 +10028,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.fr/archive/2022/page/11.html</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.fr/archive/2022/page/12.html</loc>
     <lastmod>2022-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
